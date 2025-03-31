@@ -1,7 +1,9 @@
 # Reach Map & Gametype String Editor Documentation
 
 ## Overview
-The **Reach Map & Gametype String Editor** is a user-friendly application for managing and editing map and gametype files for **Halo: The Master Chief Collection (Halo Reach)**. This tool allows you to browse, modify, and organize `.bin`, `.dat`, and `.mvar` files, including updating file names, titles, and descriptions. It also provides advanced options for folder organization and file customization.
+The **Reach Map & Gametype String Editor** is a user-friendly application for managing and editing map and gametype files for **Halo: The Master Chief Collection (Halo Reach)**. 
+
+This tool is designed specifically for **Halo Reach** but **might also work for Halo 4**. It **does not work for Halo 3 or Halo 2 Anniversary**. The application allows you to browse, modify, and organize `.bin`, `.dat`, and `.mvar` files, including updating file names, titles, and descriptions. It also provides advanced options for folder organization and file customization.
 
 ---
 
@@ -64,8 +66,13 @@ The **Reach Map & Gametype String Editor** is a user-friendly application for ma
 
 ## Important Notes
 
-- **Backup Your Files:** Always make a backup of your files before editing to prevent unintended data loss.
-- **Exclusions:** Certain default or critical game files are protected and cannot be edited.
-- **Folder Organization:** Ensure the selected folder does not contain critical game files before using the alphabetization feature.
+- **Compatibility:**  
+  - ✅ **Works for:** **Halo Reach**  
+  - ⚠️ **Might work for:** **Halo 4**  
+  - ❌ **Does not work for:** **Halo 3** or **Halo 2 Anniversary**  
+
+- **Backup Your Files:** Always make a backup of your files before editing to prevent unintended data loss.  
+- **Exclusions:** Certain default or critical game files are protected and cannot be edited.  
+- **Folder Organization:** Ensure the selected folder does not contain critical game files before using the alphabetization feature.  
 
 ---
