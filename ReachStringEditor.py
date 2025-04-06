@@ -417,13 +417,13 @@ def replace_first_occurrence(binary_content, original_binary, replacement_binary
                 untilSecond = binary_content[:second_index]
                 binary_content = untilSecond + replacement_binary + preserved_bytes
             
-            third_index = binary_content.find(original_binary, second_index + len(replacement_binary))
-            if third_index != -1:
-                # Preserve bytes after the third occurrence
-                leng = len(original_binary)
-                preserved_bytes = binary_content[third_index + leng:]
-                untilThird = binary_content[:third_index]
-                binary_content = untilThird + replacement_binary + preserved_bytes
+                third_index = binary_content.find(original_binary, second_index + len(replacement_binary))
+                if third_index != -1:
+                    # Preserve bytes after the third occurrence
+                    leng = len(original_binary)
+                    preserved_bytes = binary_content[third_index + leng:]
+                    untilThird = binary_content[:third_index]
+                    binary_content = untilThird + replacement_binary + preserved_bytes
 
     return binary_content
 
