@@ -7,6 +7,16 @@ This tool is designed specifically for **Halo Reach** but **might also work for 
 
 ---
 
+## Tutorial Video
+
+Here's a tutorial video demonstrating how to use the **Reach Map & Gametype String Editor**:
+
+[![Watch the video](https://img.youtube.com/vi/ddvKpaqy7O4/0.jpg)](https://youtu.be/ddvKpaqy7O4?si=NhH23lSZUtWSRxB-)
+
+---
+
+This video provides a step-by-step guide on how to edit map and gametype strings, including file browsing, editing, saving, and organizing files.
+
 ## Key Features
 
 1. **File Browsing:**  
@@ -76,13 +86,3 @@ This tool is designed specifically for **Halo Reach** but **might also work for 
 - **Folder Organization:** Ensure the selected folder does not contain critical game files before using the alphabetization feature.  
 
 ---
-
-## Tutorial Video
-
-Here's a tutorial video demonstrating how to use the **Reach Map & Gametype String Editor**:
-
-[![Watch the video](https://img.youtube.com/vi/ddvKpaqy7O4/0.jpg)](https://youtu.be/ddvKpaqy7O4?si=NhH23lSZUtWSRxB-)
-
----
-
-This video provides a step-by-step guide on how to edit map and gametype strings, including file browsing, editing, saving, and organizing files.
