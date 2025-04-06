@@ -11,11 +11,9 @@ This tool is designed specifically for **Halo Reach** but **might also work for 
 
 Here's a tutorial video demonstrating how to use the **Reach Map & Gametype String Editor**:
 
-[![Watch the video](https://img.youtube.com/vi/ddvKpaqy7O4/0.jpg)](https://youtu.be/ddvKpaqy7O4?si=NhH23lSZUtWSRxB-)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddvKpaqy7O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-
-This video provides a step-by-step guide on how to edit map and gametype strings, including file browsing, editing, saving, and organizing files.
 
 ## Key Features
 
@@ -84,5 +82,3 @@ This video provides a step-by-step guide on how to edit map and gametype strings
 - **Backup Your Files:** Always make a backup of your files before editing to prevent unintended data loss.  
 - **Exclusions:** Certain default or critical game files are protected and cannot be edited.  
 - **Folder Organization:** Ensure the selected folder does not contain critical game files before using the alphabetization feature.  
-
----
