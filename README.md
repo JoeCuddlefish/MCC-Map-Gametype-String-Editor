@@ -11,7 +11,7 @@ This tool is designed specifically for **Halo Reach** but **might also work for 
 
 Here's a tutorial video demonstrating how to use the **Reach Map & Gametype String Editor**:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ddvKpaqy7O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ddvKpaqy7O4/0.jpg)](https://youtu.be/ddvKpaqy7O4)
 
 ---
 
