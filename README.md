@@ -7,6 +7,12 @@ This tool is designed specifically for **Halo Reach** but **might also work for 
 
 ---
 
+## 🔥 Download
+
+[📥 Download the Reach Map & Gametype String Editor (v1.0.0)](https://github.com/JoeCuddlefish/MCC-Map-Gametype-String-Editor/releases/download/v1.0.0/Reach.Map.Gametype.String.Editor.exe)
+
+---
+
 ## Tutorial Video
 
 Here's a tutorial video demonstrating how to use the **Reach Map & Gametype String Editor**:
@@ -82,3 +88,5 @@ Here's a tutorial video demonstrating how to use the **Reach Map & Gametype Stri
 - **Backup Your Files:** Always make a backup of your files before editing to prevent unintended data loss.  
 - **Exclusions:** Certain default or critical game files are protected and cannot be edited.  
 - **Folder Organization:** Ensure the selected folder does not contain critical game files before using the alphabetization feature.  
+
+---
